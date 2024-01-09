@@ -18,7 +18,7 @@ java -version
 Clone the repository to your local machine:
 
 ```bash
-git clone <url>
+git clone git@github.com:stealthqueen0849/Caesar_Menu-.git
 ```
 
 ### Navigate to the project directory:
